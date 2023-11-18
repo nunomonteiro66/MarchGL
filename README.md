@@ -145,7 +145,7 @@ Distributed under the GNU General Public License v3.0. See `LICENSE.txt` for mor
 ## Contact
 
 Diogo Simões - dsimoes2000@gmail.com
-Nuno Monteiro - (...)
+Nuno Monteiro - nunomonteiro_6@hotmail.com
 Manuel Santos - (...)
 
 Project Link: [https://github.com/AshKetshup/MarchGL](https://github.com/AshKetshup/MarchGL)
